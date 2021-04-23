@@ -25,7 +25,7 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
   `201 Created`:
 
-  ```
+  ```json
   {
     "message": "Restaurant created!",
     "restaurant": {
@@ -55,7 +55,7 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
   `201 Created`:
 
-  ```
+  ```json
   {
     "message": "Supply created!",
     "supply": {
@@ -76,7 +76,7 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
   `200 OK`:
 
-  ```
+  ```json
   {
     "supply": {
       "description": "Supply description",
